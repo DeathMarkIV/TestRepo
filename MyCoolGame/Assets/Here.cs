@@ -6,7 +6,7 @@ public class Here : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		
+		vgfyfv,htguc
 	}
 	
 	// Update is called once per frame
