@@ -2,11 +2,11 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Here : MonoBehaviour {
+public class Scriptopop : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		vgfyfv,htguc
+		
 	}
 	
 	// Update is called once per frame
